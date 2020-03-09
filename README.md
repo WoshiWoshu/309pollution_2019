@@ -2,18 +2,18 @@
 
 3rd year mathematics computer science mini project written in C++.
 
-## USAGE
+## Usage
   
     ./309pollution n file x y
   
-## DESCRIPTION
+## Description
 
     n       number of points on the grid axis
     file    csv file containing the data points x;y;p
     x       abscissa of the point whose pollution level we want to know
     y       ordinate of the point whose pollution level we want to know
     
-## EXEMPLE
+## Exemple
 
     ./309pollution 3 file.csv 0 2
 
