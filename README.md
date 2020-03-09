@@ -15,12 +15,12 @@
     
 ## EXEMPLE
 
-* ./309pollution 3 file.csv 0 2
+    ./309pollution 3 file.csv 0 2
 
-* ./309pollution 3 file.csv 0.6 2
+    ./309pollution 3 file.csv 0.6 2
 
-* ./309pollution 3 file.csv 1.3 2
+    ./309pollution 3 file.csv 1.3 2
+ 
+    ./309pollution 3 file.csv 1 1.5
 
-* ./309pollution 3 file.csv 1 1.5
-
-* ./309pollution 3 file.csv 0.8 0.8
+    ./309pollution 3 file.csv 0.8 0.8
